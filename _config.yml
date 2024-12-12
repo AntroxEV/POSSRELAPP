@@ -6,6 +6,6 @@ description:  A Data-Driven Generator of Design Possibility Distributions for Ge
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
 github:
-  zip_url: http://example.com/download.zip
+  zip_url: https://raw.githubusercontent.com/AntroxEV/POSSREL/main/PACKAGES/POSSREL.mlappinstall
   tar_url: http://example.com/download.zip
   another_url: another value
