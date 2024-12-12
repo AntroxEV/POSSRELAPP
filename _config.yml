@@ -1,7 +1,11 @@
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme 
 title: POSSREL   
-description:  A Data-Driven Creator of Design Possibility Distributions for Geotechnical Reliability Assessment
+description:  A Data-Driven Generator of Design Possibility Distributions for Geotechnical Reliability Assessment
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
+github:
+  zip_url: http://example.com/download.zip
+  tar_url: http://example.com/download.zip
+  another_url: another value
