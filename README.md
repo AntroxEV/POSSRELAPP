@@ -8,11 +8,17 @@
 > Limited and demonstration version of the data-driven possibility distribution generator.
 > Currently, the engine is limited to elaborate CPT cone resistance curves and a limited number of databases have been implemented.
 
-![GUI screenshot](docs/assets/ScreenshotGUIpng.png)
-
+---
+:pushpin:
  POSSREL  is released under the Apache License 2.0 and is free.
  
+:pushpin:
  POSSREL is a generator required to perform possibility reliability assessment proposed in:
+
+:camera: Screenshot of the GUI:
+![GUI screenshot](docs/assets/ScreenshotGUIpng.png)
+
+## Reference
  
  ---
  >  A. Tombari, M. Dobbs, L. M. J. Holland, and L. Stefanini, ‘A rigorous possibility approach for the geotechnical reliability assessment supported by external database and local experience’, Computers and Geotechnics, vol. 166, p. 105967, Feb. 2024, doi: 10.1016/j.compgeo.2023.105967.
@@ -53,7 +59,7 @@ BibTex code for referencing:
 
 
 ## Worked Example
-A step-by-step worked example is provided in the video below.
+A step-by-step worked example is provided in the video ( :mute: ) below.
 
 The reference file can be downloaded here: [reference file](docs/assets/CPT_REF.txt)
 
