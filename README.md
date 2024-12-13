@@ -1,8 +1,7 @@
 # POSSREL
 
-<p align="center">
 ![POSSREL LOGO](docs/assets/logo3.jpg)
-</p>
+
 
 >[!NOTE]
 > Limited and demonstration version of the data-driven possibility distribution generator.
@@ -11,6 +10,7 @@
 
 
  POSSREL  is released under the Apache License 2.0 and is free.
+ 
  POSSREL is a generator required to perform possibility reliability assessment proposed in:
  ---
  >  A. Tombari, M. Dobbs, L. M. J. Holland, and L. Stefanini, ‘A rigorous possibility approach for the geotechnical reliability assessment supported by external database and local experience’, Computers and Geotechnics, vol. 166, p. 105967, Feb. 2024, doi: 10.1016/j.compgeo.2023.105967.
