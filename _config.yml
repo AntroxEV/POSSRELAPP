@@ -11,5 +11,7 @@ github:
   tar_url: https://raw.githubusercontent.com/AntroxEV/POSSREL/main/PACKAGES/MyAppInstaller_web.exe
   repository_url: https://github.com/AntroxEV/POSSREL
 markdown: GFM
+repository: AntroxEV/POSSRELAPP
+author: Dr Alessandro Tombari
 
 
