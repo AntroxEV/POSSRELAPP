@@ -49,6 +49,11 @@
 
 
 ## Worked Example
+A step-by-step worked example is provided in the video below.
+
+The reference file can be downloaded here: [reference file](docs/assets/CPT_REF.txt)
+
+
 
 
 
