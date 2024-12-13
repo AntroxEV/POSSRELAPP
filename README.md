@@ -17,6 +17,10 @@
  ---
  >  A. Tombari, M. Dobbs, L. M. J. Holland, and L. Stefanini, ‘A rigorous possibility approach for the geotechnical reliability assessment supported by external database and local experience’, Computers and Geotechnics, vol. 166, p. 105967, Feb. 2024, doi: 10.1016/j.compgeo.2023.105967.
 
+The  (open-access) paper can be read at [Computers and Geotechnics weblink](https://doi.org/10.1016/j.compgeo.2023.105967)
+
+
+BibTex code for referencing:
 
 ```BibTex
 @article{tombari_rigorous_2024,
