@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme 
 - jekyll-readme-index
 - jekyll-gfm-admonitions
+- jemoji
 title: POSSREL   
 description:  A Data-Driven Generator of Design Possibility Distributions for Geotechnical Reliability Assessment
 show_downloads: true
