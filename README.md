@@ -1,8 +1,8 @@
-# POSSREL
+# POSSREL 
 
-<div align="center">
+
 ![POSSREL LOGO](docs/assets/logo3.jpg)
-</div>
+
 
 >[!NOTE]
 > Limited and demonstration version of the data-driven possibility distribution generator.
@@ -13,8 +13,10 @@
  POSSREL  is released under the Apache License 2.0 and is free.
  
  POSSREL is a generator required to perform possibility reliability assessment proposed in:
+ 
  ---
  >  A. Tombari, M. Dobbs, L. M. J. Holland, and L. Stefanini, ‘A rigorous possibility approach for the geotechnical reliability assessment supported by external database and local experience’, Computers and Geotechnics, vol. 166, p. 105967, Feb. 2024, doi: 10.1016/j.compgeo.2023.105967.
+
 
 ```BibTex
 @article{tombari_rigorous_2024,
@@ -33,11 +35,19 @@
 }
 ```
 
-
-
-
-
-
 ## Guidance
 
+### MATLAB APP Installation
+
+1. Download MATLAB APP from https://raw.githubusercontent.com/AntroxEV/POSSREL/main/PACKAGES/POSSREL.mlappinstall
+2. Open  MATLAB and go to the APP tool
+    ![MATLAB APP TOOLBAR](docs/assets/matlabtoolbar.png)
+3. Click on Install App and select the _POSSREL.mlappinstall_ file
+4. POSSREL app will appear in the toolbar
+5. Open POSSREL
+
+
+
 ## Worked Example
+
+
