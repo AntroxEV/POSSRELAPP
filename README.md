@@ -1,7 +1,8 @@
 # POSSREL
 
+<div align="center">
 ![POSSREL LOGO](docs/assets/logo3.jpg)
-
+</div>
 
 >[!NOTE]
 > Limited and demonstration version of the data-driven possibility distribution generator.
