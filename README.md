@@ -50,4 +50,9 @@
 
 ## Worked Example
 
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="docs/assets/POSSREL - Worked example_default.mp4" type="video/mp4">
+</video>
+
+
 
