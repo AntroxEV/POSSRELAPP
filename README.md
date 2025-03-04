@@ -15,9 +15,6 @@
 :pushpin:
  POSSREL is a generator required to perform possibility reliability assessment proposed in:
 
-:camera: Screenshot of the GUI:
-![GUI screenshot](docs/assets/ScreenshotGUIpng.png)
-
 ## Reference
  
  ---
@@ -44,6 +41,8 @@ BibTex code for referencing:
 	pages = {105967},
 }
 ```
+:camera: Screenshot of the GUI:
+![GUI screenshot](docs/assets/ScreenshotGUIpng.png)
 
 ## Guidance
 
