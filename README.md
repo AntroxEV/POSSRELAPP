@@ -6,7 +6,7 @@
 
 >[!NOTE]
 > Limited and demonstration version of the data-driven possibility distribution generator.
-> Currently, the engine is limited to elaborate CPT cone resistance curves and a limited number of databases have been implemented.
+> Currently, the engine is limited to elaborate CPT cone resistance curves, and a limited number of databases have been implemented.
 
 ---
 :pushpin:
@@ -18,14 +18,37 @@
 ## Reference
  
  ---
+ 
+> A. Tombari, L. Stefanini, G. L. D. Nicosia, L. M. J. Holland, and M. Dobbs, ‘Geotechnical data-driven possibility reliability assessment’, Computers and Geotechnics, vol. 185, p. 107311, Sep. 2025, doi: 10.1016/j.compgeo.2025.107311.
+
  >  A. Tombari, M. Dobbs, L. M. J. Holland, and L. Stefanini, ‘A rigorous possibility approach for the geotechnical reliability assessment supported by external database and local experience’, Computers and Geotechnics, vol. 166, p. 105967, Feb. 2024, doi: 10.1016/j.compgeo.2023.105967.
 
-The  (open-access) paper can be read at [Computers and Geotechnics weblink](https://doi.org/10.1016/j.compgeo.2023.105967)
+The  (open-access) papers can be read at
+
+ [Computers and Geotechnics Technical Guidance](https://www.sciencedirect.com/science/article/pii/S0266352X25002605)
+ 
+ [Computers and Geotechnics Theory](https://doi.org/10.1016/j.compgeo.2023.105967)
 
 
 BibTex code for referencing:
 
 ```BibTex
+
+@article{tombari_geotechnical_2025,
+	title = {Geotechnical data-driven possibility reliability assessment},
+	volume = {185},
+	issn = {0266352X},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S0266352X25002605},
+	doi = {10.1016/j.compgeo.2025.107311},
+	language = {en},
+	urldate = {2025-05-16},
+	journal = {Computers and Geotechnics},
+	author = {Tombari, Alessandro and Stefanini, Luciano and Nicosia, Giovanni Li Destri and Holland, Liam M.J. and Dobbs, Marcus},
+	month = sep,
+	year = {2025},
+	pages = {107311},
+}
+
 @article{tombari_rigorous_2024,
 	title = {A rigorous possibility approach for the geotechnical reliability assessment supported by external database and local experience},
 	volume = {166},
